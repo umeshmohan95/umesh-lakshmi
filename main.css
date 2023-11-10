@@ -37,9 +37,9 @@ header .content {
 }
 header .content h1 {
   color: #FFF;
-  font-size: 28px;
+  font-size: 38px;
   font-weight: 900;
-  font-family: "URW Chancery L", cursive;
+/*   font-family: "URW Chancery L", cursive; */
   
 }
 header .content h1 span {
