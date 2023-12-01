@@ -47,6 +47,51 @@ header .content h1 span {
   font-size: 100%;
   font-family: "Brush Script MT", cursive;
 }
+
+/* .container {
+  position: relative;
+} */
+
+
+
+
+
+.bottomleft {
+  position: absolute;
+  /* margin-bottom: 5rem; */
+  bottom: 5rem;
+  left: 1rem;
+  /* font-size: 18px; */
+  width: 20%;
+  height: 20%;
+}
+
+.bottomright {
+  position: absolute;
+  /* margin-bottom: 5rem; */
+  bottom: 5rem;
+  right: 1rem;
+  /* font-size: 18px; */
+  width: 20%;
+  height: 20%;
+}
+
+img { 
+  width: 100%;
+  height: auto;
+  /* opacity: 0.3; */
+}
+
+.marriageqr{
+  position:fixed;
+  right:500px;
+  bottom: 500px ;
+  width: 20%;
+  height: 20%;
+}
+
+
+
 @media screen and (min-width: 480px) {
   header .content h1 {
     font-size: 36px;
